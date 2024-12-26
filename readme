@@ -1,0 +1,6 @@
+Simple Keylogger
+Overview
+This project is a simple keylogger implemented in Python, designed to record and log keystrokes into a text file. The purpose of this keylogger is purely educational, offering an opportunity to understand how keylogging mechanisms work in a controlled and ethical manner. The tool captures every key pressed on the keyboard and saves the data to a file named keylog.txt.
+
+Usage
+To use this program, ensure you have Python 3.x installed on your system. Additionally, the pynput library is required, which can be installed using pip install pynput. After setting up the environment, you can run the script, and all keystrokes will be logged into the keylog.txt file. This keylogger runs until the program is manually stopped and stores the recorded keys securely for review.
